@@ -1,4 +1,4 @@
-### <h1>Jonas Gonçalves Fernandes 👨🏾‍💻</h1><strong><h2>Bem vindo ao meu perfil!</strong><br><br> Sou Jonas Gonçalves Fernandes, estudante e desenvolvedor. Meu foco principal é em HTML, CSS, JavaScript e C.
+### <h1>Jonas Gonçalves Fernandes 👨🏾‍💻</h1><strong><h2>Bem vindo ao meu perfil!</strong><br><br> Sou Jonas Gonçalves Fernandes, estudante e desenvolvedor.
 
 
 [![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-gon%C3%A7alves-94544a212/)
