@@ -19,12 +19,13 @@
 
 
 <h3>⌛ Atualmente, estou explorando:</h3>
+<ul>
+  <li>Focado no <strong>Backend</strong> com <strong>Java</strong> e <strong>C</strong>, aprimorando conceitos de desempenho, arquitetura e escalabilidade.</li>
+  <li>Aprofundando meus conhecimentos em <strong>JavaScript</strong> e <strong>Node.js</strong> para criar aplicações dinâmicas e eficientes.</li>
+  <li>Expandindo minha experiência no <strong>desenvolvimento web</strong>, sempre em busca de aprender novas ferramentas e conceitos.</li>
+</ul>
 
-<li>Introduzindo-me ao Java.</li>
-<li>Avançando em JavaScript.</li>
-<li>Aprofundando meus conhecimentos em C.</li>
-<li>Focado em desenvolvimento web, aprendendo Bootstrap e conceitos de desenvolvimento.</li>
-<br>
+
 
 ## Contato:
 <li><a href="https://www.linkedin.com/in/gabriel-scache-5678492b0/" rel="nofollow">LinkedIn</a></li>
