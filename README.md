@@ -1,32 +1,60 @@
-### <h1>Jonas Gonçalves Fernandes 👨🏾‍💻</h1><strong><h2>Bem vindo ao meu perfil!</strong><br><br> Sou Jonas Gonçalves Fernandes, estudante e desenvolvedor.
+# Jonas Gonçalves Fernandes 👨🏾‍💻
 
+---
 
-[![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-gon%C3%A7alves-94544a212/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonasbem20100@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonas_goncalvess15/)
+## 👨‍💻 Sobre mim
 
+> Desenvolvedor Fullstack
 
-## Tecnologias que eu uso no meu dia a dia
-<div style="display: inline_block"><br/>
-        <img alt="html5" src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-        <img alt="Node" src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-        <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-        <img alt="C" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-        <img alt="JAVA" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+Desenvolvedor com experiência prática em **backend** e aplicações fullstack, atuando com **Perl, Java e React** em ambiente corporativo. Tenho foco em performance, arquitetura limpa e entrega de soluções que funcionam de verdade em produção.
+
+Cursando **Tecnologia em Sistemas para Internet** no IFSP – Campus Araraquara (6º semestre), com atuação desde 2025 como estagiário de desenvolvimento de software na área de ITSM.
+
+---
+
+### 📌 Situação atual
+- 💻 **Estagiário em Desenvolvimento de Software** @ Service Up
+
+### 🎓 Formação
+- 📚 Tecnologia em Sistemas para Internet — IFSP Araraquara
+
+#### 📫 Contato
+
+- 🔗 **LinkedIn:** [linkedin.com/in/jonas-fernandes-94544a212](https://www.linkedin.com/in/jonas-fernandes-94544a212/)
+- 📧 **E-mail:** [jonasbem20100@gmail.com](mailto:jonasbem20100@gmail.com)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+🛠️ **Linguagens & Frameworks**
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" width="40" alt="Perl">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" alt="Spring Boot">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" alt="Angular">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap">
 </div>
 
+<br/>
 
+**🗄️ Banco de Dados & Infra**
 
-<h3>⌛ Atualmente, estou explorando:</h3>
-<ul>
-  <li>Focado no <strong>Backend</strong> com <strong>Java</strong> e <strong>C</strong>, aprimorando conceitos de desempenho, arquitetura e escalabilidade.</li>
-  <li>Aprofundando meus conhecimentos em <strong>JavaScript</strong> e <strong>Node.js</strong> para criar aplicações dinâmicas e eficientes.</li>
-  <li>Expandindo minha experiência no <strong>desenvolvimento web</strong>, sempre em busca de aprender novas ferramentas e conceitos.</li>
-</ul>
+<div style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" alt="Oracle">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux">
+</div>
 
+---
 
+### 📊 GitHub Stats
 
-## Contato:
-<li><a href="https://www.linkedin.com/in/gabriel-scache-5678492b0/" rel="nofollow">LinkedIn</a></li>
-<li>Email: <a href="mailto:Jonasbem20100@gmail.com">jonasbem20100@gmail.com</a></li>
+![Jonas Stats](https://github-readme-stats.vercel.app/api?username=jonasgoncalvesfernandes&show_icons=true&theme=default)
