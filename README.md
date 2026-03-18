@@ -30,7 +30,7 @@ Cursando **Tecnologia em Sistemas para Internet** no IFSP – Campus Araraquara 
 🛠️ **Linguagens & Frameworks**
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" width="40" alt="Perl">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Perl-logo.svg/1280px-Perl-logo.svg.png" width="40" alt="Perl">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" alt="Spring Boot">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React">
